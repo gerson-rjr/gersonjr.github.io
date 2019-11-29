@@ -1,0 +1,37 @@
+Info: : 4500 mini-second(s) publishing element CapabilityPattern:MobGameDev[MobGameDev\capabilitypatterns\MobGameDev_C9E31320.html]
+Info: CapabilityPattern:MobGameDev: 4500 mini seconds publishing element
+Info: CapabilityPattern:MobGameDev: 490 mini seconds publishing process specific layout data
+Info: Task:Criar a ideia do jogo: 578 mini seconds publishing element
+Info: TaskDescriptor:Criar a ideia do jogo: 359 mini seconds publishing element
+Info: : 1672 mini-second(s) publishing element Role:Artista[MobGameDev\roles\Artista_E9E69F8C.html]
+Info: Role:Artista: 1672 mini seconds publishing element
+Info: RoleDescriptor:Artista: 375 mini seconds publishing element
+Info: Role:Designer: 141 mini seconds publishing element
+Info: RoleDescriptor:Designer: 93 mini seconds publishing element
+Info: Role:Programador: 125 mini seconds publishing element
+Info: RoleDescriptor:Programador: 94 mini seconds publishing element
+Info: Task:Desenvolver o conceito: 31 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver o conceito: 63 mini seconds publishing element
+Info: Role:Engenheiro de Som: 187 mini seconds publishing element
+Info: RoleDescriptor:Engenheiro de Som: 78 mini seconds publishing element
+Info: Task:Desenvolver a prova do conceito: 32 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver a prova do conceito: 93 mini seconds publishing element
+Info: Task:Criar um Documento de Design de Jogo (GDD): 32 mini seconds publishing element
+Info: TaskDescriptor:Criar um Documento de Design de Jogo (GDD): 93 mini seconds publishing element
+Info: Task:Criar Protótipos: 32 mini seconds publishing element
+Info: TaskDescriptor:Criar Protótipos: 125 mini seconds publishing element
+Info: Task:Arquitetura de Design: 47 mini seconds publishing element
+Info: TaskDescriptor:Arquitetura de Design: 78 mini seconds publishing element
+Info: Task:Desenvolvimento: 31 mini seconds publishing element
+Info: TaskDescriptor:Desenvolvimento: 62 mini seconds publishing element
+Info: Role:Testador: 141 mini seconds publishing element
+Info: RoleDescriptor:Testador: 156 mini seconds publishing element
+Info: Task:Testar o Jogo: 32 mini seconds publishing element
+Info: TaskDescriptor:Testar o Jogo: 62 mini seconds publishing element
+Info: Task:Suporte ao Jogo: 31 mini seconds publishing element
+Info: TaskDescriptor:Suporte ao Jogo: 78 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 531 mini seconds publishing element
+Info: CustomCategory:Tasks: 16 mini seconds publishing element
+Info: CustomCategory:Roles: 62 mini seconds publishing element
+Info: CustomCategory:Processes: 16 mini seconds publishing element
+Info: : Publishing time: 0 minutes 17 seconds
